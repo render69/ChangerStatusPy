@@ -1,4 +1,4 @@
-# ChangerStatus
+# ChangerStatus (Python)
 ## Установка|Install
 https://discord.com/developers/applications/ -> Создаёте приложение -> Копируете Id в General Information (Application ID)
 Запускаете main.py и всё, ваш статус изменён
